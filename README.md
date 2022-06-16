@@ -53,12 +53,6 @@
   <img alt="Microsoft_Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white&style=plastic">
 </p>
 
-## 🌳 I'm currently working on
-
-- Namu public website
-- Lunar birthday app
-
-
 ## 📮 How to reach me
 <a href="https://www.linkedin.com/in/yujinwon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"/></a>
 <a href="mailto:iamyujinwon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Gmail"/></a>
