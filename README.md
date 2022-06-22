@@ -33,8 +33,9 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest%20-red.svg?logo=jest&logoColor=white">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&style=plastic">
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=plastic">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&style=plastic">
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black&style=plastic">
 </p>
-
 ### Databases & Systems
 
 <p>
