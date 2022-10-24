@@ -7,7 +7,6 @@
 - 🇨🇦 Currently in Toronto, Canada
 - 👩‍🎓 Graduated from Seneca College, Computer Programming
 - 🍕 Loving delicious food
-- 💻 Coding every weekday challenge
 - 🎨 Drawing hobby
 
 ## ✨ My stack
