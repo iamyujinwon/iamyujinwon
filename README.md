@@ -1,7 +1,5 @@
 # Hi, I'm Yujin Won 👋 
 
-<img src="https://media4.giphy.com/media/26gN27K98gXfnvEJy/giphy.gif?cid=ecf05e47bmx72vg1was3rmelzb0tjkm2munbsd2me2av5wdg&rid=giphy.gif&ct=g"/>
-
 ## 🙂 About me
 
 - 🇨🇦 Currently in Toronto, Canada
