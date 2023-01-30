@@ -3,7 +3,6 @@
 ## 🙂 About me
 
 - 🇨🇦 Currently in Toronto, Canada
-- 👩‍🎓 Graduated from Seneca College, Computer Programming
 - 🍕 Loving delicious food
 - 🎨 Drawing hobby
 
